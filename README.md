@@ -1,4 +1,5 @@
 # 🛡️ SafeLink Protocol
+![SafeLink Protocol Cover](assets/cover.png)
 
 > **Secure Peer-to-Peer LAN Communication System**  
 > A modular C++ networking project implementing encrypted messaging and file transfer over local area networks using hybrid RSA/AES-GCM cryptography.
